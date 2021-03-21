@@ -1,4 +1,4 @@
-# Django_tutorial
+# goorm을 통한 Django_tutorial
 
 |명령어|설명|
 |------|-------|
